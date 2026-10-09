@@ -1,0 +1,11 @@
+# Secret environment file — NEVER commit this file
+.env
+
+# Installed packages
+node_modules/
+
+# macOS junk
+.DS_Store
+
+# Windows junk
+Thumbs.db
